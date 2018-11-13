@@ -1,4 +1,4 @@
-# _Triangle Tracker_
+# _Palindrome_
 
 #### _single Webpage for Epicodus, 11.13.2018_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_A C# application that returns the type of triangle based on user input._
+_A C# application that returns if it is a palindrome or not based on user input._
 
 ## Setup/Installation Requirements
 
